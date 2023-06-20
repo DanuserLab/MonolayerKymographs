@@ -47,7 +47,7 @@ The following folders include summary for all time-lapse analyzed and are locate
 ### Citation
 
 Please cite the following manuscript when using this code:
-["Diverse roles of guanine nucleotide exchange factors in regulating collective cell migration"](https://doi.org/10.1101/076125) (https://doi.org/10.1101/076125)
+[**Diverse roles of guanine nucleotide exchange factors in regulating collective cell migration**](https://doi.org/10.1083/jcb.201609095), *J. Cell Biol.*, 2017, 216(6):1543-1556, written by Assaf Zaritsky, Yun-Yu Tseng, M Angeles Rabadán, Shefali Krishna, Michael Overholtzer, [Gaudenz Danuser](https://www.danuserlab-utsw.org/), Alan Hall.
 
 Please contact Assaf Zaritsky, assafzar@gmail.com, for any questions / suggestions / bug reports.
 
